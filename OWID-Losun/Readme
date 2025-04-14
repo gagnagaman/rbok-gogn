@@ -1,2 +1,5 @@
-Gögn frá Our World in Data 
+# Excel skrá um losun gróðurhúsalofttegunda
+
+Gögn frá Our World in Data. Sjá nánar á https://github.com/owid/co2-data
+
 Dæmi um flókið og viðamikið Excel skjal sem hentar vel til að kanna með *readxl* pakkanum
